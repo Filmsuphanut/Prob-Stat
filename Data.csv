@@ -1,7 +1,7 @@
 Manufacturer,CO_Emissions,Fuel_Cost_6000_Miles
 Volkswagen,503,626
 Honda,710,624
-Mercedes-Benz,,529
+Mercedes-Benz,420,529
 Audi,660,822
 Renault,600,549
 Isuzu,200,811
@@ -138,7 +138,7 @@ Vauxhall,700,701
 Lotus,1984,1091
 Volvo,703,666
 Volkswagen,400,651
-Mercedes-Benz,,464
+Mercedes-Benz,400,464
 Audi,200,521
 Mercedes-Benz,300,689
 BMW,811,563
@@ -164,7 +164,7 @@ BMW,800,563
 Audi,700,563
 Toyota,700,438
 Mercedes-Benz,300,689
-Audi,,618
+Audi,540,618
 Mitsubishi,253,398
 Ford,171,731
 Alfa Romeo,848,609
@@ -181,7 +181,7 @@ Fiat,300,382
 Vauxhall,400,480
 Fiat,100,412
 Vauxhall,500,528
-Audi,,586
+Audi,540,586
 Porsche,600,786
 Suzuki,732,595
 Volkswagen,400,668
@@ -233,10 +233,10 @@ Mercedes-Benz,300,736
 Audi,1000,668
 Renault,200,412
 Mercedes-Benz,154,832
-MG Rover Group,,500
+MG Rover Group,473,500
 Fiat,246,495
 Peugeot,132,710
-Mercedes-Benz,,442
+Mercedes-Benz,350,442
 Porsche,600,897
 Toyota,230,304
 Peugeot,572,414
@@ -275,7 +275,7 @@ BMW,255,675
 Vauxhall,1300,730
 Alfa Romeo,905,822
 Ford,100,420
-Audi,,618
+Audi,521,618
 Vauxhall,300,521
 Ford,374,500
 Fiat,1600,528
@@ -293,7 +293,7 @@ BMW,486,822
 Proton,150,570
 MG Rover Group,1000,684
 Jaguar Cars,400,640
-Mercedes-Benz,,550
+Mercedes-Benz,500,550
 Skoda,400,384
 Peugeot,1418,616
 Peugeot,182,686
@@ -403,7 +403,7 @@ Ford,120,652
 Jaguar Cars,326,905
 Vauxhall,219,522
 Honda,970,580
-Volvo,,625
+Volvo,420,625
 Vauxhall,500,556
 Ford,895,550
 Renault,491,565
@@ -462,12 +462,12 @@ Volvo,700,730
 Fiat,827,595
 Vauxhall,500,465
 Ford,200,507
-Saab,,550
+Saab,423,550
 Vauxhall,200,406
 Ford,900,528
 BMW,255,661
 Volkswagen,156,603
-MG Rover Group,,500
+MG Rover Group,483,500
 Lexus,230,836
 Seat,624,760
 Volvo,400,620
@@ -544,7 +544,7 @@ Land Rover,960,1162
 Suzuki,300,493
 Alfa Romeo,1200,858
 Mitsubishi,1117,668
-MG Rover Group,,388
+MG Rover Group,220,388
 Hyundai,600,682
 Audi,350,599
 Porsche,404,1048
@@ -612,7 +612,7 @@ Saab,600,578
 Peugeot,802,543
 Peugeot,900,571
 Mercedes-Benz,485,549
-BMW,,620
+BMW,450,620
 Volkswagen,288,610
 Volkswagen,1709,897
 Fiat,300,464
@@ -697,7 +697,7 @@ MG Rover Group,300,744
 Toyota,400,675
 Vauxhall,272,497
 Mercedes-Benz,700,634
-MG Rover Group,,500
+MG Rover Group,650,500
 Mercedes-Benz,500,571
 Proton,910,611
 Honda,310,646
@@ -760,7 +760,7 @@ Honda,383,686
 Metrocab,1185,643
 Ferrari,200,1499
 Volkswagen,500,602
-Mercedes-Benz,,427
+Mercedes-Benz,320,427
 Renault,500,535
 Honda,300,445
 Vauxhall,200,717
@@ -789,7 +789,7 @@ Alfa Romeo,355,595
 Volkswagen,700,682
 Volkswagen,78,489
 Mercedes-Benz,120,883
-Mercedes-Benz,,529
+Mercedes-Benz,480,529
 Audi,874,549
 Maserati,1400,1205
 Vauxhall,300,434
@@ -862,7 +862,7 @@ Suzuki,145,478
 Citroen,482,616
 Jaguar Cars,200,420
 Peugeot,132,682
-MG Rover Group,,500
+MG Rover Group,650,500
 Mitsubishi,400,473
 Mitsubishi,233,571
 Alfa Romeo,600,843
@@ -944,7 +944,7 @@ Mercedes-Benz,200,514
 Lexus,400,696
 Honda,200,362
 Volvo,548,709
-Audi,,629
+Audi,730,629
 Mazda,500,514
 Ford,900,372
 Skoda,100,377
@@ -1680,7 +1680,7 @@ Saab,100,529
 Jaguar Cars,530,801
 Saab,600,640
 Proton,600,465
-Lamborghini,,
+Ford,318,395
 Ford,518,595
 Skoda,436,399
 Metrocab,100,705
@@ -1695,7 +1695,7 @@ Mercedes-Benz,792,668
 Vauxhall,200,427
 Mercedes-Benz,500,549
 Mercedes-Benz,500,578
-Mercedes-Benz,,529
+Mercedes-Benz,510,529
 Mercedes-Benz,300,586
 Toyota,500,563
 BMW,100,506
@@ -1717,14 +1717,14 @@ Mercedes-Benz,500,620
 Mercedes-Benz,700,646
 Skoda,100,362
 Mercedes-Benz,640,675
-Mercedes-Benz,,442
+Mercedes-Benz,320,442
 Ford,400,445
-Mercedes-Benz,,529
+Mercedes-Benz,520,529
 Mini,400,535
 Renault,200,398
 Ford,526,407
 Ford,900,543
-Volvo,,634
+Volvo,620,634
 Citroen,174,414
 Rover Group Limited,733,543
 Vauxhall,300,549
@@ -1743,7 +1743,7 @@ Honda,633,637
 Renault,400,555
 Volvo,500,620
 Volkswagen,100,645
-Volkswagen,,602
+Volkswagen,728,602
 Honda,1022,725
 Volvo,116,750
 Volkswagen,790,594
@@ -1830,7 +1830,7 @@ Renault,400,507
 Renault,211,535
 Vauxhall,300,434
 Daewoo Cars,540,768
-Volkswagen,,478
+Volkswagen,320,478
 Vauxhall,500,459
 Hyundai,384,580
 Volkswagen,400,836
@@ -1881,7 +1881,7 @@ Ford,300,480
 Lexus,400,703
 Seat,874,580
 Ford,662,473
-Mercedes-Benz,,637
+Mercedes-Benz,527,637
 Daihatsu,800,438
 Subaru,900,747
 BMW,1200,625
@@ -1909,7 +1909,7 @@ Mitsubishi,198,956
 Citroen,1117,557
 Volkswagen,300,473
 Volkswagen,304,580
-Saab,,536
+Saab,420,536
 Proton,1140,583
 Daewoo Cars,700,565
 Vauxhall,503,565
@@ -1929,7 +1929,7 @@ Ford,120,634
 Audi,532,456
 Ford,600,549
 Citroen,890,521
-Mercedes-Benz,,514
+Mercedes-Benz,475,514
 Volvo,600,423
 Audi,900,861
 Volkswagen,376,641
@@ -1983,7 +1983,7 @@ Volvo,578,696
 Hyundai,400,396
 Vauxhall,300,434
 Mazda,498,599
-MG Rover Group,,500
+MG Rover Group,480,500
 Honda,650,666
 Mercedes-Benz,300,1018
 Audi,1000,1002

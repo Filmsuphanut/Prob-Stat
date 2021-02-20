@@ -10,7 +10,7 @@ dataCO.med <- median(dataCO.sort)
 dataCO.sd <- sd(dataCO.sort)
 
 dataCO.dnorm <- dnorm(dataCO.sort,dataCO.med,dataCO.sd)
-plot(dataCO.sort,dataCO.dnorm,type = 'l', xlab="Probability Density",xlim=c(0,2100),ylim=c(0,0.0025))
+plot(dataCO.sort,dataCO.dnorm,type = 'l', ylab="Probability Density",xlab = "CO_Emissions (mg/km)",xlim=c(0,2100),ylim=c(0,0.0025))
 
 plot(dataCO.sort,datadiv.seq,type = 'l')
 
